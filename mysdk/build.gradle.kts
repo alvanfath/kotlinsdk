@@ -52,6 +52,7 @@ dependencies {
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.appcompat)
     implementation("com.android.tools.external.com-intellij:kotlin-compiler:31.9.0")
+    implementation("com.android.installreferrer:installreferrer:2.2")
     implementation(libs.material)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
